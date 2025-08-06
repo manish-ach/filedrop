@@ -1,7 +1,13 @@
 # ScreenShot
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8178f528-4b38-4cbf-9f15-6244150a3e13" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/51d4c581-417f-4767-9b22-d388c4eab667" />
 
+<details>
+  <summary>Old Screenshot logs</summary>
+  
+  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8178f528-4b38-4cbf-9f15-6244150a3e13" />
+
+</details>
 
 # Development
 
