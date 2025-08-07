@@ -10,6 +10,17 @@ body {
     align-items: center;
     height: 100vh;
 }
+a {
+    color: inherit !important;
+    text-decoration: none !important;
+}
+
+/* Optional hover effect */
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
 
 #title {
     display: flex;
@@ -110,4 +121,13 @@ body {
     margin: 0;
     font-size: 0.9rem;
     color: #999;
+}
+.no-style-link {
+    color: inherit;
+    text-decoration: none;
+}
+
+.no-style-link:hover {
+    text-decoration: underline; /* optional */
+    cursor: pointer;
 }
